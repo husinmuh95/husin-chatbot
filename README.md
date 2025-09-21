@@ -1,8 +1,6 @@
 ## husin-chatbot
 
-## Getting Started
-
-### Prerequisites
+### Requirements
 
 Ensure you have Python installed. It is recommended to use `miniconda` or `conda` for environment management.
 
